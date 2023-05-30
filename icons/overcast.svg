@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="22px" viewBox="0 0 30 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Overcast</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Weather-Glyph" transform="translate(-173.000000, -188.000000)">
+            <g id="Overcast" transform="translate(172.000000, 183.000000)">
+                <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                <path d="M2.79897669,14.3674381 C2.79897669,9.19394488 6.99292157,5 12.1664148,5 C16.7768893,5 20.6418885,8.34177236 21.3994728,12.7774239 L22.935742,12.7772413 C26.8610938,12.7772413 30.0432202,15.9593677 30.0432202,19.8847196 C30.0432202,23.8100715 26.8610938,26.9921979 22.935742,26.9921979 L6.88598262,26.9921979 C3.63524418,26.9921979 1,24.3569537 1,21.1062153 C1,19.3498261 1.77607534,17.7246908 3.07260233,16.6221504 C2.89158067,15.8910475 2.79897669,15.135242 2.79897669,14.3674381 Z" id="Combined-Shape-Copy" fill="#404852" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

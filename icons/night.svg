@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Night</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Weather-Glyph" transform="translate(-175.000000, -330.000000)">
+            <g id="Night" transform="translate(172.000000, 327.000000)">
+                <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                <path d="M13.8751373,6.69327072 C13.8751373,12.6994432 18.7441021,17.568408 24.7502746,17.568408 C25.5893834,17.568408 26.4153805,17.4735598 27.2176085,17.2875367 C27.9383988,17.1203976 28.5847861,17.7667797 28.4176528,18.4875714 C27.0752601,24.276876 21.8967104,28.4435453 15.8751373,28.4435453 C8.76439531,28.4435453 3,22.67915 3,15.568408 C3,9.54683391 7.16666835,4.36828992 12.9560241,3.02583615 C13.6768082,2.8586985 14.323193,3.50506857 14.1560718,4.22585648 C13.9699573,5.02856151 13.8751373,5.85428168 13.8751373,6.69327072 Z" id="Combined-Shape" fill="#404852" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
